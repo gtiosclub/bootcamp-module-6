@@ -1,17 +1,16 @@
-WEEK 7 ASSIGNMENT
-Movie Ratings App
-———————————
+# Module 6: Movies Rating App with SwiftUI
 
-— Overview — 
-For this assignment, you will create the frontend and implement logic for an app 
-that allows you to rate popular movies and view those ratings. You will:
+In this module, you'll be building an app to rate movies using SwiftUI.
 
-- Understand how Views are constructed/formatted in Swift.
-- Create views iteratively using ForEach.
-- Learn basic methods of navigation, such as a “sheet.”
-- See how state can be propagated through your app through the use of “@State” and “@Binding” variables.
-- Split up repetitive UI’s into concise subviews.
+#### What you'll accomplish:
 
+- [ ] Share and manage view-wide state using SwiftUI property wrappers.
+
+- [ ] Build nested views by decomposing the different layers into subviews.
+
+- [ ] Learn basic methods of navigation, such as a “sheet.”
+
+#### Overview
 
 — Files Included —
 
