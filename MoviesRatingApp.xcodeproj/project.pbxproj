@@ -8,17 +8,31 @@
 
 /* Begin PBXBuildFile section */
 		A3D29B162B9BC5F100178B6C /* MoviesRatingAppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3D29B152B9BC5F100178B6C /* MoviesRatingAppApp.swift */; };
-		A3D29B182B9BC5F100178B6C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3D29B172B9BC5F100178B6C /* ContentView.swift */; };
 		A3D29B1A2B9BC5F200178B6C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A3D29B192B9BC5F200178B6C /* Assets.xcassets */; };
 		A3D29B1D2B9BC5F200178B6C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A3D29B1C2B9BC5F200178B6C /* Preview Assets.xcassets */; };
+		A3D29B252B9BC61A00178B6C /* Movie.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3D29B242B9BC61A00178B6C /* Movie.swift */; };
+		A3D29B272B9BC62500178B6C /* RatingCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3D29B262B9BC62500178B6C /* RatingCardView.swift */; };
+		A3D29B292B9BC64400178B6C /* MoviesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3D29B282B9BC64400178B6C /* MoviesView.swift */; };
+		A3D29B2B2B9BC64D00178B6C /* RatingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3D29B2A2B9BC64D00178B6C /* RatingsView.swift */; };
+		A3D29B312B9BC6C800178B6C /* ContentView_1.png in Resources */ = {isa = PBXBuildFile; fileRef = A3D29B2C2B9BC6C800178B6C /* ContentView_1.png */; };
+		A3D29B322B9BC6C800178B6C /* ContentView_2.png in Resources */ = {isa = PBXBuildFile; fileRef = A3D29B2D2B9BC6C800178B6C /* ContentView_2.png */; };
+		A3D29B332B9BC6C800178B6C /* RatingsView_1.png in Resources */ = {isa = PBXBuildFile; fileRef = A3D29B2E2B9BC6C800178B6C /* RatingsView_1.png */; };
+		A3D29B342B9BC6C800178B6C /* RatingsView_2.png in Resources */ = {isa = PBXBuildFile; fileRef = A3D29B2F2B9BC6C800178B6C /* RatingsView_2.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		A3D29B122B9BC5F100178B6C /* MoviesRatingApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MoviesRatingApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A3D29B152B9BC5F100178B6C /* MoviesRatingAppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoviesRatingAppApp.swift; sourceTree = "<group>"; };
-		A3D29B172B9BC5F100178B6C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		A3D29B192B9BC5F200178B6C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A3D29B1C2B9BC5F200178B6C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		A3D29B242B9BC61A00178B6C /* Movie.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Movie.swift; path = "../../../../../../../../Downloads/Week 7 Bootcamp Assignment/MovieRatings_ShellCode/MovieRatings_ShellCode/Movie.swift"; sourceTree = "<group>"; };
+		A3D29B262B9BC62500178B6C /* RatingCardView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RatingCardView.swift; sourceTree = "<group>"; };
+		A3D29B282B9BC64400178B6C /* MoviesView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MoviesView.swift; sourceTree = "<group>"; };
+		A3D29B2A2B9BC64D00178B6C /* RatingsView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RatingsView.swift; sourceTree = "<group>"; };
+		A3D29B2C2B9BC6C800178B6C /* ContentView_1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ContentView_1.png; sourceTree = "<group>"; };
+		A3D29B2D2B9BC6C800178B6C /* ContentView_2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ContentView_2.png; sourceTree = "<group>"; };
+		A3D29B2E2B9BC6C800178B6C /* RatingsView_1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = RatingsView_1.png; sourceTree = "<group>"; };
+		A3D29B2F2B9BC6C800178B6C /* RatingsView_2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = RatingsView_2.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,7 +66,8 @@
 			isa = PBXGroup;
 			children = (
 				A3D29B152B9BC5F100178B6C /* MoviesRatingAppApp.swift */,
-				A3D29B172B9BC5F100178B6C /* ContentView.swift */,
+				A3D29B232B9BC60B00178B6C /* TODO */,
+				A3D29B302B9BC6C800178B6C /* UI_Screenshots */,
 				A3D29B192B9BC5F200178B6C /* Assets.xcassets */,
 				A3D29B1B2B9BC5F200178B6C /* Preview Content */,
 			);
@@ -65,6 +80,28 @@
 				A3D29B1C2B9BC5F200178B6C /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		A3D29B232B9BC60B00178B6C /* TODO */ = {
+			isa = PBXGroup;
+			children = (
+				A3D29B262B9BC62500178B6C /* RatingCardView.swift */,
+				A3D29B282B9BC64400178B6C /* MoviesView.swift */,
+				A3D29B2A2B9BC64D00178B6C /* RatingsView.swift */,
+				A3D29B242B9BC61A00178B6C /* Movie.swift */,
+			);
+			path = TODO;
+			sourceTree = "<group>";
+		};
+		A3D29B302B9BC6C800178B6C /* UI_Screenshots */ = {
+			isa = PBXGroup;
+			children = (
+				A3D29B2C2B9BC6C800178B6C /* ContentView_1.png */,
+				A3D29B2D2B9BC6C800178B6C /* ContentView_2.png */,
+				A3D29B2E2B9BC6C800178B6C /* RatingsView_1.png */,
+				A3D29B2F2B9BC6C800178B6C /* RatingsView_2.png */,
+			);
+			path = UI_Screenshots;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,8 +162,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A3D29B332B9BC6C800178B6C /* RatingsView_1.png in Resources */,
 				A3D29B1D2B9BC5F200178B6C /* Preview Assets.xcassets in Resources */,
 				A3D29B1A2B9BC5F200178B6C /* Assets.xcassets in Resources */,
+				A3D29B312B9BC6C800178B6C /* ContentView_1.png in Resources */,
+				A3D29B342B9BC6C800178B6C /* RatingsView_2.png in Resources */,
+				A3D29B322B9BC6C800178B6C /* ContentView_2.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -137,8 +178,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A3D29B182B9BC5F100178B6C /* ContentView.swift in Sources */,
+				A3D29B252B9BC61A00178B6C /* Movie.swift in Sources */,
 				A3D29B162B9BC5F100178B6C /* MoviesRatingAppApp.swift in Sources */,
+				A3D29B2B2B9BC64D00178B6C /* RatingsView.swift in Sources */,
+				A3D29B292B9BC64400178B6C /* MoviesView.swift in Sources */,
+				A3D29B272B9BC62500178B6C /* RatingCardView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
