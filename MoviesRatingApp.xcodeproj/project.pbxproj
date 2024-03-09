@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		A3D29B162B9BC5F100178B6C /* MoviesRatingAppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3D29B152B9BC5F100178B6C /* MoviesRatingAppApp.swift */; };
+		A3D29B162B9BC5F100178B6C /* MoviesRatingApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3D29B152B9BC5F100178B6C /* MoviesRatingApp.swift */; };
 		A3D29B1A2B9BC5F200178B6C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A3D29B192B9BC5F200178B6C /* Assets.xcassets */; };
 		A3D29B1D2B9BC5F200178B6C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A3D29B1C2B9BC5F200178B6C /* Preview Assets.xcassets */; };
 		A3D29B272B9BC62500178B6C /* RatingCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3D29B262B9BC62500178B6C /* RatingCardView.swift */; };
@@ -22,7 +22,7 @@
 
 /* Begin PBXFileReference section */
 		A3D29B122B9BC5F100178B6C /* MoviesRatingApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MoviesRatingApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		A3D29B152B9BC5F100178B6C /* MoviesRatingAppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoviesRatingAppApp.swift; sourceTree = "<group>"; };
+		A3D29B152B9BC5F100178B6C /* MoviesRatingApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoviesRatingApp.swift; sourceTree = "<group>"; };
 		A3D29B192B9BC5F200178B6C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A3D29B1C2B9BC5F200178B6C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		A3D29B262B9BC62500178B6C /* RatingCardView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RatingCardView.swift; sourceTree = "<group>"; };
@@ -65,7 +65,7 @@
 		A3D29B142B9BC5F100178B6C /* MoviesRatingApp */ = {
 			isa = PBXGroup;
 			children = (
-				A3D29B152B9BC5F100178B6C /* MoviesRatingAppApp.swift */,
+				A3D29B152B9BC5F100178B6C /* MoviesRatingApp.swift */,
 				A3D29B232B9BC60B00178B6C /* TODO */,
 				A3D29B302B9BC6C800178B6C /* UI_Screenshots */,
 				A3D29B192B9BC5F200178B6C /* Assets.xcassets */,
@@ -178,7 +178,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A3D29B162B9BC5F100178B6C /* MoviesRatingAppApp.swift in Sources */,
+				A3D29B162B9BC5F100178B6C /* MoviesRatingApp.swift in Sources */,
 				A3D29B2B2B9BC64D00178B6C /* RatingsView.swift in Sources */,
 				A3D29B292B9BC64400178B6C /* MoviesView.swift in Sources */,
 				A3D29B272B9BC62500178B6C /* RatingCardView.swift in Sources */,

@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct MoviesRatingAppApp: App {
+struct MoviesRatingApp: App {
     var body: some Scene {
         WindowGroup {
             MoviesView()
