@@ -10,25 +10,20 @@ In this module, you'll be building an app to rate movies using SwiftUI.
 
 - [ ] Learn basic methods of navigation, such as a “sheet.”
 
-#### Overview
+#### Files Included
 
-— Files Included —
-
-Shell Code
 - ContentView.swift
 - RatingsView.swift
 - RatingCardView.swift
 - Movie.swift
 - movie_images FOLDER (all assets needed WITHIN app)
-- completed_app_screenshots FOLDER (what your implementation should look like)
 
-— App Screenshots — 
-- There are 4 images included that show what your implementation should look like.
-- You should follow this design as exactly as possible.
-- Take note of the green annotations made on the images, as they give insight about 
-  the functionality and design features.
+#### App Screenshots
+- There are 4 images included that show what your implementation should look like. Those can be found under the UI_Screenshots folder.
+- You should follow this design as precisely as possible.
+- Take note of the green annotations made on the images, as they give insight on the functionality and design features.
 
-— General Steps —
+#### General Steps
 1. [Movie.swift] Familiarize yourself with the structure of the Movie model and add at least 
     one movie of your choice to the static “allMovies” property.
 2. [ContentView.swift] Write the declaration/initialization code for instance variables.
@@ -40,5 +35,5 @@ Shell Code
 6. [RatingCardView.swift] Write the declaration code for instance variables and recreate frontend of a rating card.
 7. [RatingsView.swift] Write the frontend for RatingsView by instantiating a “RatingCardView” for each rating.
 
-— Tips/Hints —
-1. The comments for each struct’s instance variables note the types of the variables needed. 
+#### Tips
+1. The comments near instance variables note the types needed throughout. 
