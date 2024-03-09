@@ -20,7 +20,7 @@ struct MoviesView: View {
     /**
         MOVIES VIEW STATE
         - Current movie object being shown ( Movie )
-        - Figure out a way to keep track of and iterate through Movie.allMovies
+        - Figure out a way to keep track of the current movie observed - from Movie.allMovies
      */
     
     // ADD CODE HERE
@@ -55,8 +55,8 @@ struct MoviesView: View {
     
     func submitRating() {
         /**
-         - Add the current movie rating state to the collection of reviews.
-         - Iterate to next movie.
+         - Add the current movie rating state to some collection of all reviews made.
+         - Jump to to next movie.
          */
         
         // ADD CODE HERE
