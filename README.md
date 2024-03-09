@@ -16,7 +16,7 @@ In this module, you'll be building an app to rate movies using SwiftUI.
 - RatingsView.swift
 - RatingCardView.swift
 - Movie.swift
-- movie_images FOLDER (all assets needed WITHIN app)
+- Relevant images found within Assets.xcassets
 
 #### App Screenshots
 - There are 4 images included that show what your implementation should look like. Those can be found under the UI_Screenshots folder.
