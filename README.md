@@ -12,11 +12,11 @@ In this module, you'll be building an app to rate movies using SwiftUI.
 
 #### Files Included
 
-- MoviesView.swift
-- RatingsView.swift
-- RatingCardView.swift
-- Movie.swift
-- Relevant images found within Assets.xcassets
+- `MoviesView.swift`
+- `RatingsView.swift`
+- `RatingCardView.swift`
+- `Movie.swift`
+- Relevant images found within `Assets.xcassets`
 
 #### App Screenshots
 - There are 4 images included that show what your implementation should look like. Those can be found under the `UI_Screenshots` folder.
@@ -108,3 +108,16 @@ We've modularized this such that you would design the rating cards in a separate
 You should have completed all the views at this point. To conclude, set up a sheet navigation that redirects the user to `RatingsView` upon clicking the RatingsView button. Pass the appropriate data. You will have to do your own research to implement this feature. Look into the SwiftUI `.sheet(...)` view modifier. It conditionally presents a view popover.
 
 - [x] Learn basic methods of navigation, such as a “navigation sheet.”
+
+## Conclusion
+
+Now try running the app in the simulator.
+
+#### What you've accomplished today:
+
+- [x] Share and manage view-wide state using SwiftUI property wrappers.
+
+- [x] Build nested views by decomposing the different layers into subviews.
+
+- [x] Learn basic methods of navigation, such as a “sheet.”
+
