@@ -5,7 +5,7 @@ import Foundation
  MOVIE.SWIFT
  - This is the model for a Movie object.
  - Make sure you understand what each variable's role is.
- - Note the optional variables "rating" and "myReview". They are nil inititally, so you will need to edit them appropriately whenever a review for this movie is added.
+ - Note the Optional type variables "rating" and "myReview". They are inititally nil, so you will need to manipulate them appropriately whenever a review for this movie is added. 
  - The static variable "allMovies" stores the list of all the movies available on the app.
  - You can access "allMovies" as you would with any static variable (same as in Python, Java, etc.).
  */

@@ -7,7 +7,7 @@ import SwiftUI
 struct RatingsView: View {
     /**
      INSTANCE VARIABLES
-     - Variable storing all ratings. (SAME REFERENCE to MoviesView's ratings variable) ( [Movie] )
+     - Variable storing all ratings. ( [Movie] )
      */
     
     // ADD CODE HERE
