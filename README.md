@@ -1,4 +1,4 @@
-# Module 6: Movies Rating App with SwiftUI
+# Module 6: Movie Rating App with SwiftUI
 
 In this module, you'll be building an app to rate movies using SwiftUI.
 
