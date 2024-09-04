@@ -41,8 +41,10 @@ In this module, you'll be building an app to rate movies using SwiftUI.
 
 ## Getting Started
 
-- Fork then clone the repo on to your local device
-    - Cloning can be done via Xcode or the command line
+Clone this repo to your local device. 
+
+Refer to the [Assignments](https://gt-ios-club.notion.site/Assignments-1b6cb97d5c7b467d9bc176de64578453?pvs=4) notion page on how to do so.
+
 - Build the project via Xcode (`Cmd+b`) to make sure everything is loaded properly.
 - There should be no errors and you should be able to see the previews on each screen.
     - If for some reason you can't get previews working, run the app in the
