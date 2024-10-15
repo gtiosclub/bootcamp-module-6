@@ -26,3 +26,8 @@ struct MoviesView: View {
         getNextMovie()
     }
 }
+
+
+#Preview {
+    MoviesView() 
+}
