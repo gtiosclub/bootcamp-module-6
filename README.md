@@ -49,8 +49,9 @@ In this module, you'll be building the UI for an app to rate movies using SwiftU
 
 3. **Mockup of Screen**
 
-![image](https://github.com/user-attachments/assets/ad0e9159-32ea-4e7e-9087-c9704b82748a)
-![image](https://github.com/user-attachments/assets/62d69dc2-68dd-454e-8d37-c38fc91f6159)
+<img src= "./MoviesRatingApp/UI_Screenshots/ContentView_1.png" width="300" /> 
+<img src= "./MoviesRatingApp/UI_Screenshots/RatingsView_1.png" width="300" />
+
 
 
 
@@ -68,16 +69,10 @@ In this module, you'll be building the UI for an app to rate movies using SwiftU
 
 3. **Mockup of Screen**
    
-![image](https://github.com/user-attachments/assets/3d66bc33-3a7c-4d5b-9da9-023fa3d9a628)
+<img src= "./MoviesRatingApp/UI_Screenshots/RatingsView_2.png" width="300" />
 
 
-### Step 2: RatingsView
-
-![image](https://github.com/user-attachments/assets/74d51a82-c962-4f78-9ad7-3f0a03a9ca2c)
-
-![image](https://github.com/user-attachments/assets/6e91b249-245c-4f13-b8ae-5908c5eefedb)
-
-
+### Step 3: RatingsView
 
 1. **Frontend**
     - Using the app screenshots as a guide, recreate the UI of `RatingsView`.
@@ -86,6 +81,9 @@ In this module, you'll be building the UI for an app to rate movies using SwiftU
         - Ensure the design matches the provided screenshots.
 
 3. **Mockup of Screen**
+
+<img src= "./MoviesRatingApp/UI_Screenshots/ContentView_1.png" width="300" /> 
+<img src= "./MoviesRatingApp/UI_Screenshots/RatingsView_1.png" width="300" />
 
 ### Step 4: Navigation
 
