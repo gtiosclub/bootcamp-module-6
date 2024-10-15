@@ -10,5 +10,5 @@ struct RatingCardView: View {
 
 
 #Preview {
-    RatingCardView() // Once you have instance variables, you will need to add arguments here to see preview.
+    RatingCardView() 
 }
