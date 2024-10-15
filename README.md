@@ -47,6 +47,8 @@ In this module, you'll be building the UI for an app to rate movies using SwiftU
         - Add a button to navigate to `RatingsView` using a popover (leave the action empty for now).
         - Integrate a custom popcorn icon found online.
 
+3. **Mockup of Screen**
+
 ### Step 2: RatingCardView
 
 1. **Instance Variables**
