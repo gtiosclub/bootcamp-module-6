@@ -36,6 +36,10 @@ In this module, you'll be building the UI for an app to rate movies using SwiftU
 
 ### Step 1: MoviesView
 
+#### Objectives
+- Create the main interface for rating movies.
+- Implement functionality for submitting ratings and navigating to other views.
+
 1. **Instance Variables**
     - Declare and initialize instance variables as needed.
 
@@ -49,13 +53,14 @@ In this module, you'll be building the UI for an app to rate movies using SwiftU
 
 3. **Mockup of Screen**
 
-<img src= "./MoviesRatingApp/UI_Screenshots/ContentView_1.png" width="300" /> 
-<img src= "./MoviesRatingApp/UI_Screenshots/RatingsView_1.png" width="300" />
-
-
-
+<img src="./MoviesRatingApp/UI_Screenshots/ContentView_1.png" width="300" /> 
+<img src="./MoviesRatingApp/UI_Screenshots/RatingsView_1.png" width="300" />
 
 ### Step 2: RatingCardView
+
+#### Objectives
+- Display individual movie ratings.
+- Style rating cards to match design requirements.
 
 1. **Instance Variables**
     - Declare instance variables as needed.
@@ -68,11 +73,14 @@ In this module, you'll be building the UI for an app to rate movies using SwiftU
         - Style the card to match the design.
 
 3. **Mockup of Screen**
-   
-<img src= "./MoviesRatingApp/UI_Screenshots/RatingsView_2.png" width="300" />
 
+<img src="./MoviesRatingApp/UI_Screenshots/RatingsView_2.png" width="300" />
 
 ### Step 3: RatingsView
+
+#### Objectives
+- Create a view to display all submitted ratings.
+- Ensure smooth navigation and layout of rating cards.
 
 1. **Frontend**
     - Using the app screenshots as a guide, recreate the UI of `RatingsView`.
@@ -82,10 +90,14 @@ In this module, you'll be building the UI for an app to rate movies using SwiftU
 
 3. **Mockup of Screen**
 
-<img src= "./MoviesRatingApp/UI_Screenshots/ContentView_1.png" width="300" /> 
-<img src= "./MoviesRatingApp/UI_Screenshots/RatingsView_1.png" width="300" />
+<img src="./MoviesRatingApp/UI_Screenshots/ContentView_1.png" width="300" /> 
+<img src="./MoviesRatingApp/UI_Screenshots/RatingsView_1.png" width="300" />
 
 ### Step 4: Navigation
+
+#### Objectives
+- Implement navigation features within the app.
+- Ensure data is correctly passed between views.
 
 1. **Sheet Navigation**
     - Set up a sheet navigation to `RatingsView` upon clicking the RatingsView button.
@@ -100,4 +112,3 @@ Run the app in the simulator to test the UI.
 - Built nested views by decomposing the different layers into subviews.
 - Implemented UI components based on provided designs.
 - Learned basic methods of navigation, such as a “sheet.”
-
